@@ -1,7 +1,6 @@
 #!/bin/bash
 # insfollow v2.0
-# recoded by: Termux Professor
-# github.com/termuxprofessor/insfollow
+# recoded by: Lokesh Kumar
 # If you use any part from this code, give me the credits, please, read the License
 
 clear
